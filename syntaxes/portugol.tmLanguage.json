@@ -12,16 +12,16 @@
 			"include": "#strings"
 		},
 		{
-			"include": "#comment"
+			"include": "#comments"
 		},
 		{
-			"include": "#function"
+			"include": "#functions"
 		},
 		{
-			"include": "#operator"
+			"include": "#operators"
 		},
 		{
-			"include": "#variable"
+			"include": "#variables"
 		}
 		
 	],
